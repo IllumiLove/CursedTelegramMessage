@@ -1,0 +1,8 @@
+{
+  "prefix": ">>",
+  "send_prefix": "send",
+  "sendfile_prefix": "sendfile",
+  "help_prefix": "help",
+  "change_prefix": "changepass",
+  "send_ss_prefix": "upload_ss"
+}
